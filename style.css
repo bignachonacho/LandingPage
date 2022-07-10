@@ -60,7 +60,7 @@ p {
  button {
     border: none;
     border-radius: 8px;
-    background-color: #3882F6;
+    background-color: #3881f673;
     color: white;
     padding: 8px 24px;
     font-size: 18px;
@@ -157,9 +157,10 @@ p {
     background-color: #3882F6;
     padding: 50px;
     margin: 80px 150px;
+    background-image: url(https://images.pexels.com/photos/1124960/pexels-photo-1124960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
  }
 
-.mainnote, .smallnot{
+.nottxt {
     font-size: 18px;
 }
 
